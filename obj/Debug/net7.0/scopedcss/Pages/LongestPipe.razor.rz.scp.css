@@ -1,0 +1,36 @@
+*[b-5gjdssevne] {
+    margin: 0;
+    padding: 0;
+}
+
+.h1-header[b-5gjdssevne] {
+    display: block;
+    text-align: center;
+    font-size: 50px;
+    font-family: fantasy;
+}
+
+.content[b-5gjdssevne] {
+    display: block;
+}
+
+.text-content[b-5gjdssevne] {
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 400;
+    margin: 5px;
+}
+
+.image[b-5gjdssevne] {
+    margin-left: -5px;
+    margin: 5px;
+}
+
+.content-images[b-5gjdssevne] {
+    display: flex;
+}
+
+#listStreet[b-5gjdssevne] {
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}

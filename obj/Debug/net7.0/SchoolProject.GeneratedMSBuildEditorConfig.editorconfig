@@ -1,0 +1,65 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = browser
+build_property.RootNamespace = SchoolProject
+build_property.RootNamespace = SchoolProject
+build_property.ProjectDir = E:\Visual Studio Programm\SchoolProject\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = E:\Visual Studio Programm\SchoolProject
+build_property._RazorSourceGeneratorDebug = 
+
+[E:/Visual Studio Programm/SchoolProject/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Visual Studio Programm/SchoolProject/Shared/SurveyPrompt.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Visual Studio Programm/SchoolProject/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Visual Studio Programm/SchoolProject/Pages/About.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWJvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-d9khuwx9ph
+
+[E:/Visual Studio Programm/SchoolProject/Pages/BiggestSchool.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQmlnZ2VzdFNjaG9vbC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-xznewskgz7
+
+[E:/Visual Studio Programm/SchoolProject/Pages/BiggestStore.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQmlnZ2VzdFN0b3JlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-n3sxqjud81
+
+[E:/Visual Studio Programm/SchoolProject/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-jiljp0b9mj
+
+[E:/Visual Studio Programm/SchoolProject/Pages/LongestPipe.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9uZ2VzdFBpcGUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-5gjdssevne
+
+[E:/Visual Studio Programm/SchoolProject/Pages/Park.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGFyay5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-8a1p3gx0qd
+
+[E:/Visual Studio Programm/SchoolProject/Pages/Street.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3RyZWV0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-25kel9hp1n
+
+[E:/Visual Studio Programm/SchoolProject/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-3i9upk0xei
+
+[E:/Visual Studio Programm/SchoolProject/Shared/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-948bhx5isq

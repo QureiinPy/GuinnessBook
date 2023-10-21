@@ -1,0 +1,24 @@
+*[b-xznewskgz7] {
+    margin: 0;
+    padding: 0;
+}
+
+.h1-header[b-xznewskgz7] {
+    display: block;
+    text-align: center;
+    font-size: 50px;
+    font-family: fantasy;
+}
+.content[b-xznewskgz7]{
+    display: contents;
+}
+.text-content[b-xznewskgz7] {
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 400;
+    margin: 5px;
+}
+.image[b-xznewskgz7]{
+    margin-left: -5px;
+    margin: 5px;
+}

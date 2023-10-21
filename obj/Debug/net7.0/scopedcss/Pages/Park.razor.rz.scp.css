@@ -1,0 +1,39 @@
+*[b-8a1p3gx0qd] {
+    margin: 0;
+    padding: 0;
+}
+
+.h1-header[b-8a1p3gx0qd] {
+    display: block;
+    text-align: center;
+    font-size: 50px;
+    font-family: fantasy;
+}
+
+.content[b-8a1p3gx0qd] {
+    display: block;
+}
+
+.text-content[b-8a1p3gx0qd] {
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 400;
+    margin: 5px;
+}
+
+.image[b-8a1p3gx0qd] {
+    margin-left: -5px;
+    margin: 5px;
+}
+
+.content-images[b-8a1p3gx0qd] {
+    display: flex;
+}
+
+#listStreet[b-8a1p3gx0qd] {
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#p.info[b-8a1p3gx0qd] {
+    font-weight: 600;
+}

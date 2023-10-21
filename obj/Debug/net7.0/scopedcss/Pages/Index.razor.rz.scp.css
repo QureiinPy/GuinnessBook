@@ -1,0 +1,31 @@
+*[b-jiljp0b9mj] {
+    margin: 0;
+    padding: 0;
+}
+
+.h1-header[b-jiljp0b9mj] {
+    display: block;
+    text-align: center;
+    font-size: 50px;
+    font-family: fantasy;
+}
+.content[b-jiljp0b9mj]{
+    display: contents;
+}
+.text-content[b-jiljp0b9mj] {
+    font-size: 35px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 300;
+    margin: 10px;
+    margin-left: 20px;
+}
+.image[b-jiljp0b9mj]{
+    margin-left: -5px;
+    margin: 5px;
+}
+.main-header[b-jiljp0b9mj]{
+    font-size: 45px;
+    font-family: Arial;
+    font-weight: 600;
+    text-align: center;
+}
